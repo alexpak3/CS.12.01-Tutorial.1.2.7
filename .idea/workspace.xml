@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="090c059a-21b8-4203-84ab-4e163a6706bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Digits.java" afterDir="false" />
+    <list default="true" id="090c059a-21b8-4203-84ab-4e163a6706bb" name="Changes" comment="new commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS.12.01-Tutorial.1.2.7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CS.12.01-Tutorial.1.2.7.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.DigitsTest">
+  <component name="RunManager" selected="JUnit.DigitsTest.isStrictlyIncreasing">
     <configuration name="DigitsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CS.12.01-Tutorial.1.2.7" />
       <option name="PACKAGE_NAME" value="" />
@@ -79,8 +75,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DigitsTest.isStrictlyIncreasing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS.12.01-Tutorial.1.2.7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DigitsTest" />
+      <option name="METHOD_NAME" value="isStrictlyIncreasing" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DigitsTest.isStrictlyIncreasing" />
         <item itemvalue="JUnit.DigitsTest" />
         <item itemvalue="JUnit.DigitsTest.constructorOne" />
         <item itemvalue="JUnit.DigitsTest.constructorThree" />
@@ -96,6 +103,14 @@
       <option name="presentableId" value="Default" />
       <updated>1694040737431</updated>
     </task>
+    <task id="LOCAL-00001" summary="new commit">
+      <created>1725369692035</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725369692035</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +123,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
